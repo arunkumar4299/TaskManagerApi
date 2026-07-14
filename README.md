@@ -67,7 +67,23 @@ http://127.0.0.1:8000/docs
 - POST /tasks
 - PUT /tasks/{task_id}
 - DELETE /tasks/{task_id}
+# API Screenshots
 
-## Author
+### Swagger UI
+![Swagger](screenshots/swagger.png)
+
+### GET /tasks
+![GET](screenshots/get_tasks.png)
+
+### POST /tasks
+![POST](screenshots/post_task.png)
+
+### PUT /tasks/{task_id}
+![PUT](screenshots/update_task.png)
+
+### DELETE /tasks/{task_id}
+![DELETE](screenshots/delete_task.png)
+
+## author
 
 *Arun Kumar Murugan*
